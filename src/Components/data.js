@@ -218,23 +218,23 @@ export const ourTeam = [
   {
     id: 1,
     user: user,
-    h3: "Leticia Kutch",
-    text: "Been going here for years. Through bad tooth genes, yearly check ups and teeth cleaning sessions, they have proven themselves highly competent.",
+    h3: "Sarah Thompson",
+    text: "Creative graphic designer with over 8 years of experience in branding and visual communication. Specializes in crafting visual identities that enhance brand recognition.",
     position: "Graphic Designer",
   },
   {
     id: 2,
     user: user,
-    h3: "Leticia Kutch",
-    text: "Been going here for years. Through bad tooth genes, yearly check ups and teeth cleaning sessions, they have proven themselves highly competent.",
-    position: "Graphic Designer",
+    h3: "James Lee",
+    text: "Skilled software developer with 5 years of experience in web applications. Passionate about building efficient, user-friendly solutions using JavaScript and React.",
+    position: "Developer",
   },
   {
     id: 3,
     user: user,
-    h3: "Leticia Kutch",
-    text: "Been going here for years. Through bad tooth genes, yearly check ups and teeth cleaning sessions, they have proven themselves highly competent.",
-    position: "Graphic Designer",
+    h3: "Emily Martinez",
+    text: "Dynamic digital marketer with expertise in content strategy and social media. Focused on driving engagement through targeted campaigns and analytics.",
+    position: "Marketer",
   },
 ];
 
@@ -266,23 +266,23 @@ export const testimonail = [
   {
     id: 1,
     user: user,
-    h3: "Leticia Kutch",
-    text: "Been going here for years. Through bad tooth genes, yearly check ups and teeth cleaning sessions, they have proven themselves highly competent.",
+    h3: "Sarah Thompson",
+    text: "Creative graphic designer with over 8 years of experience in branding and visual communication. Specializes in crafting visual identities that enhance brand recognition.",
     position: "Graphic Designer",
   },
   {
     id: 2,
     user: user,
-    h3: "Leticia Kutch",
-    text: "Been going here for years. Through bad tooth genes, yearly check ups and teeth cleaning sessions, they have proven themselves highly competent.",
-    position: "Graphic Designer",
+    h3: "James Lee",
+    text: "Skilled software developer with 5 years of experience in web applications. Passionate about building efficient, user-friendly solutions using JavaScript and React.",
+    position: "Developer",
   },
   {
     id: 3,
     user: user,
-    h3: "Leticia Kutch",
-    text: "Been going here for years. Through bad tooth genes, yearly check ups and teeth cleaning sessions, they have proven themselves highly competent.",
-    position: "Graphic Designer",
+    h3: "Emily Martinez",
+    text: "Dynamic digital marketer with expertise in content strategy and social media. Focused on driving engagement through targeted campaigns and analytics.",
+    position: "Marketer",
   },
 ];
 
