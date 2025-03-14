@@ -11,8 +11,8 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm("service_key", "template_id", form.current, {
-        publicKey: "publick_id",
+      .sendForm("service_2kfrrvq", "template_hdh6uyq", form.current, {
+        publicKey: "FWScxC107PNPpO90N",
       })
       .then(
         () => {
@@ -57,14 +57,14 @@ const Contact = () => {
             <div className="fullName">
               <input
                 type="text"
-                name="from_name"
+                name="first_name"
                 placeholder="First Name"
                 className="firstName"
                 required
               />
               <input
                 type="text"
-                name="from_name"
+                name="last_name"
                 placeholder="Last Name"
                 className="lastName"
                 required
